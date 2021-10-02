@@ -1,0 +1,27 @@
+{
+    "id": "705213E4",
+    "path": "~/Research/Station_Data/Offshore_Motus_R_20210518.R",
+    "project_path": "Offshore_Motus_R_20210518.R",
+    "type": "r_source",
+    "hash": "1100207130",
+    "contents": "",
+    "dirty": false,
+    "created": 1632243689483.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "59,61",
+        "scrollLine": "40",
+        "docOutlineVisible": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1633028031,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1633028031564,
+    "read_only": false,
+    "read_only_alternatives": []
+}
